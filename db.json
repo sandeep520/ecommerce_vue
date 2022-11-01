@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "fullname": "hiren",
+      "email": "hiren@gmail.com",
+      "password": "121121",
+      "address": "surat",
+      "id": 2
+    },
+    {
+      "fullname": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "21122112",
+      "address": "pune",
+      "id": 3
+    },
+    {
+      "fullname": "rohit",
+      "email": "rohit@gmail.com",
+      "password": "122112",
+      "address": "mumbai",
+      "id": 4
+    },
+    {
+      "fullname": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "123456",
+      "address": "pune",
+      "id": 5
+    },
+    {
+      "fullname": "Sandeep Rathod",
+      "email": "sandeep@gmail.com",
+      "password": "jayviru123",
+      "phone": "9587412306",
+      "address": "Surat",
+      "id": 1
+    }
+  ],
+  "cart": []
+}
